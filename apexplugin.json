@@ -1,0 +1,44 @@
+
+  {
+    "name": "Smart Timeline & Activity Tracker",
+    "version": "version 1.0.0",
+    "description": "The Smart Timeline & Activity Tracker is a modern Oracle APEX region plugin that visually displays activities and events in a chronological timeline. It automatically groups events by month, provides a sleek and intuitive interface, and supports dynamic data sources with custom icons and styles.",
+    "keywords": [
+      "oracle-apex",
+      "timeline-plugin",
+      "activity-tracker",
+      "chronological-view",
+      "event-visualization",
+      "ui-component",
+      "data-visualization",
+      "modern-apex-plugin"
+    ],
+    "homepage": "https://github.com/mishab424/-Smart-Timeline-Activity-Tracker",
+    "bugs": {
+      "url": "https://github.com/mishab424/-Smart-Timeline-Activity-Tracker/issues",
+      "email": "mishabscodecraft@gmail.com"
+    },
+    "license": "MIT",
+    "commercial": "Yes",
+    "author": {
+      "name": "Muhammed Mishab PP",
+      "email": "mishabscodecraft@gmail.com",
+      "url": "https://oracleapex.com/ords/r/mishabs_codecraft/mishabs_codecraft/home"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mishab424/-Smart-Timeline-Activity-Tracker.git"
+    },
+    "oracle": {
+      "versions": ["12.2.0.1", "18c", "19c", "21c","23ai","26ai"],
+      "apex": {
+        "versions": ["24.2"],
+        "plugin": {
+          "internalName": "SMART_TIMELINE_AND_ACTIVITY_TRACKER",
+          "type": "Region Type",
+          "demo": "https://gd95ced064aa901-codecraftdb.adb.ap-hyderabad-1.oraclecloudapps.com/ords/r/codecraft_dev/smart-timeline-and-activity-tracker/home",
+          "previewImage": "https://raw.githubusercontent.com/mishab424/-Smart-Timeline-Activity-Tracker/refs/heads/main/demo%20img.png"
+        }
+      }
+    }
+  }
