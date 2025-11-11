@@ -34,7 +34,7 @@
       "apex": {
         "versions": ["24.2"],
         "plugin": {
-          "internalName": "SMART_TIMELINE_AND_ACTIVITY_TRACKER",
+          "internalName": "MC_SMART_TIMELINE_AND_ACTIVITY_TRACKER",
           "type": "Region Type",
           "demo": "https://gd95ced064aa901-codecraftdb.adb.ap-hyderabad-1.oraclecloudapps.com/ords/r/codecraft_dev/smart-timeline-and-activity-tracker/home",
           "previewImage": "https://raw.githubusercontent.com/mishab424/-Smart-Timeline-Activity-Tracker/refs/heads/main/demo%20img.png"
@@ -42,3 +42,4 @@
       }
     }
   }
+
